@@ -33,4 +33,4 @@ From the analysis information based on 72,458 employees that could retire at any
   
   ![mentorship_eligibility_count](https://user-images.githubusercontent.com/92836648/146655828-543c8edc-ea65-455c-9e4e-d9aeda779135.png)
   
-Best strategy based on the numbers who be to adjust the coding to identify groups based retirement eligible through the next 20 years and back into upcoming_10_yrs_retiring_eliblility and 10_20_yrs_retiring_eligiblity to alloww focus on the next group help pass the best practice and knowledge down through a cascade effect.
+Best strategy based on the numbers would be to adjust the coding and identify groups based on retirement eligible through the next 20 years. Run back through the coding for upcoming_10_yrs_retiring_eliblility and 10_20_yrs_retiring_eligiblity to alloww focus on the next retiring age groups which will help pass the best practice and knowledge down through like a cascade effect.
